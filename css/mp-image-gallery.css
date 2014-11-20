@@ -73,7 +73,11 @@ body .mp_image_collection ul{
 .mp_image_collection ul li{
 	float: left;
 	cursor: pointer;
-	margin: 0 !important;
+	margin: 0 10px 0 0 !important;
+}
+
+.mp_image_collection ul li:last-child{
+	margin:  0 !important;
 }
 
 .mp_control_right{
