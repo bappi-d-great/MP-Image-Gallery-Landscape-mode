@@ -11,8 +11,8 @@
 			$html .= '</span></div>';
 		$html .= '</div>';
 		$html .= '<div class="mp_image_collection">';
-			$html .= '<div class="mp_control_left"><img class="mp-icon" src="'. plugins_url() .'/marketpress-product-gallery/img/left.png"></div>';
-			$html .= '<div class="mp_control_right"><img class="mp-icon" src="'. plugins_url() .'/marketpress-product-gallery/img/right.png"></div>';
+			$html .= '<div class="mp_control_left"><img class="mp-icon" src="'. plugins_url( '../img/left.png', __FILE__ ) .'"></div>';
+			$html .= '<div class="mp_control_right"><img class="mp-icon" src="'. plugins_url( '../img/right.png', __FILE__ ) .'"></div>';
 			$html .= '<div class="mp_image_list"><ul>';
 				$i = 0;
 				foreach( $mp_prod_image_paths as $mp_prod_image_path ) {

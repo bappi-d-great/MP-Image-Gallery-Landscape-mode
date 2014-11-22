@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: MarketPress Product Image Gallery
+Plugin Name: MarketPress Product Image Gallery (Landscape Mode)
 Version: 0.3
 Plugin URI: https://premium.wpmudev.org/project/e-commerce/
-Description: Creates a nice image gallery for product single page.
+Description: Creates a nice image gallery (Landscape Mode) for product single page.
 Author: WPMU DEV (Ash)
-Author URI: http://premium.wpmudev.org/
+Author URI: http://www.bappi-d-great.com/
 Text Domain: mp_gallery
 
 Copyright 2009-2014 Incsub (http://incsub.com)
